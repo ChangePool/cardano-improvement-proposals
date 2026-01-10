@@ -279,7 +279,7 @@ Consider the following related articles and other resources:
     - [Greenpilled: How Crypto Can Regenerate the World](https://www.worldcat.org/title/1303554957)
     - [Center for Humane Technology](https://www.humanetech.com/)
     - [Constitution of the Cardano Blockchain (by ChatGPT)](../constitution/AIConstitution.md)
-    - [Relevant Research Papers and Specifications - Voltaire](https://docs.cardano.org/about-cardano/explore-more/relevant-research-papers/#voltaire)
+    - [Relevant Research Papers and Specifications - Voltaire](https://docs.cardano.org/about-cardano/explore-more/relevant-research-papers#voltaire)
     <!-- - [Traffic Analysis as an Identifier of Toxic Workplace Environments or Negative Interpersonal Interactions in the Workplace: A Design Study](http://hdl.handle.net/20.500.11803/589) -->
     <!-- - [Method of Conducting Workplace Electronic Communication Traffic Analysis](https://patents.google.com/patent/US11423362B2/en?oq=11423362) -->
     <!-- - [Empowering Community-Driven Governance on Cardano](https://youtu.be/YvTfSx6pv9Y?si=6wacibbUWA-Vw_Cx) -->
