@@ -22,17 +22,27 @@ License: DMCA
 
 The _Analysis of Cardano's Incentive Mechanism_ report aims to assess the economic health and performance of Cardano’s stake pool incentive scheme, including the delegation model used to define network security.
 
-The report makes assumptions about how people are motivated and provides important information on the long-term effects of the incentive mechanism on the health and wellbeing of individual stake pool operators (SPOs) as well as the social network of SPOs.
+The report offers assumptions about how people are motivated while providing important information on the long-term effects of the incentive mechanism on the health and wellbeing of stake pool operators (SPOs).
 
 ## Motivation
 
-The report identifies disillusionment within the community of stake pool operators as a core theme. 
+The report splits Cardano technology development from processes of human interaction and relationship, when the two are interconnected. The report identifies disillusionment within the social network of stake pool operators as a core theme and concludes that tweaking the system with targeted revisions would resolve the root causes.
+
+If organizational change does not occur in a timely fashion, the opportunity for things to go wrong and individuals to become disillusioned increases (Aamodt, 2010). Disillusioned SPOs may stop cooperating (Beck et al, 1979).
+
+
 
 ## Specification
 
 ## Rationale
 
-## Resources
+## References
+
+Aamodt, M. G. (2010). Industrial/Organizational Psychology: An Applied Approach (6th ed.). Belmont, CA: Wadsworth.
+
+Beck, A. T., Rush, A. J., F., S. B., & Emery, G. (1979). Cognitive Therapy of Depression. New York, NY: Guilford Press.
+
+
 
 ## Copyright
 
