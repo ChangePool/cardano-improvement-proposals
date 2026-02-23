@@ -1,5 +1,5 @@
 # Cardano: Doomed to Survive—Not Thrive
-A Response to the [Analysis of Cardano's Incentive Mechanism](https://github.com/input-output-hk/spo-incentives/blob/main/report.pdf) (November 2025)
+<center>A Response to the [Analysis of Cardano's Incentive Mechanism](https://github.com/input-output-hk/spo-incentives/blob/main/report.pdf) (November 2025)</center>
 
 ## Preamble
 
