@@ -26,7 +26,7 @@ The report makes assumptions about how people are motivated while providing impo
 
 ## Motivation
 
-The report separates Cardano technology development from processes of human interaction and relationship, when the two are intrinsically connected. The report identifies disillusionment within the social network of stake pool operators as a core theme, and proposes that relatively small technical revisions would resolve the root cause.
+The report separates Cardano technology development from processes of human interaction and relationship, when the two are intrinsically connected. The report identifies disillusionment within the social network of stake pool operators as a core theme, and proposes that relatively small technical revisions would resolve root causes.
 
 If organizational change does not occur in a timely fashion, the opportunity for things to go wrong and individuals to become disillusioned increases (Aamodt, 2010). Disillusioned SPOs may stop cooperating (Beck et al, 1979).
 
