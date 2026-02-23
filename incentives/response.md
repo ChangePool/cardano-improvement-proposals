@@ -24,9 +24,17 @@ The _Analysis of Cardano's Incentive Mechanism_ report aims to assess the econom
 
 The report makes assumptions about how people are motivated and provides important information on the long-term effects of the incentive mechanism on the emotional health and wellbeing of the stake pool operators (SPO) social network.
 
-##Motivation
+## Motivation
 
 The report identifies disillusionment within the community of stake pool operators as a core theme. 
 
+## Specification
 
+## Rationale
+
+## Resources
+
+## Copyright
+
+DMCA Protected Item
 
