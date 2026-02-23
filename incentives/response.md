@@ -28,7 +28,9 @@ The report oversimplifies human motivation while providing important historical 
 
 ### I
 
-The report portrays the Cardano ecosystem fundamentally as a place of lack.
+The report portrays the Cardano ecosystem fundamentally as a place of lack:
+
+- 
 
 ### II
 
