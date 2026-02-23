@@ -22,7 +22,7 @@ License: DMCA
 
 The _Analysis of Cardano's Incentive Mechanism_ report aims to assess the economic health and performance of Cardano’s stake pool incentive scheme, including the delegation model used to define network security.
 
-The report makes assumptions about how people are motivated while providing important details on the long-term effects of the incentive mechanism on the health and wellbeing of stake pool operators (SPOs).
+The report makes assumptions about how people are motivated while providing important historical information on the long-term effects of the incentive mechanism on the health and wellbeing of stake pool operators (SPOs).
 
 ## Motivation
 
