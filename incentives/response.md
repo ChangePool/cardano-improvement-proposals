@@ -32,7 +32,7 @@ The report portrays the Cardano ecosystem fundamentally as a place of lack:
 
 - 
 
-- Whereas the report describes the current state of the Cardano ecosystem as the result of rational behaviour, the report describes consequences consistent with nihilism. A nihilistic viewpoint rejects the existence of inherent meaning, intrinsic value or moral truth in life.
+- Whereas the report describes the current state of the Cardano ecosystem as the result of rational behaviour, the state of affairs seems more accurately consistent with a nihilistic viewpoint rejecting the existence of inherent meaning, intrinsic value or moral truth. The report provides hard-won evidence that a practice of evidence-based empiricism without a framework including human experience, subjective meaning and pragmatic action is not sustainable.
 
 ### II
 
