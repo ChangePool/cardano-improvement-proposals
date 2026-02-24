@@ -40,7 +40,7 @@ The report separates Cardano technology development from processes of human inte
 
 If organizational change does not occur in a timely fashion, the opportunity for things to go wrong and individuals to become disillusioned increases (Aamodt, 2010). Disillusioned SPOs may stop cooperating (Beck et al, 1979).
 
-## What's Missing?
+## Specification
 
 ## Rationale
 
