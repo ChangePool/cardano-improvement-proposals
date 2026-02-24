@@ -32,7 +32,7 @@ The report portrays the Cardano ecosystem fundamentally as a place of lack:
 
 - 
 
-- Whereas the report describes the current state of the Cardano ecosystem as the result of rational behaviour, the state of affairs seems more accurately consistent with a nihilistic viewpoint rejecting the existence of inherent meaning, intrinsic value or moral truth. The report provides hard-won evidence that a practice of evidence-based empiricism without a framework including human experience, subjective meaning and pragmatic action is not sustainable.
+- Whereas the report describes the current state of the Cardano ecosystem as the result of rational behaviour, the state of affairs seems more accurately consistent with a nihilistic viewpoint rejecting the existence of inherent meaning, intrinsic value or moral truth. The report provides hard-won evidence that a practice of evidence-based empiricism without a framework including human experience, subjective meaning and pragmatic action is not sustainable (Bradsahw, 1996).
 
 ### II
 
@@ -49,6 +49,8 @@ If organizational change does not occur in a timely fashion, the opportunity for
 Aamodt, M. G. (2010). Industrial/Organizational Psychology: An Applied Approach (6th ed.). Belmont, CA: Wadsworth.
 
 Beck, A. T., Rush, A. J., F., S. B., & Emery, G. (1979). Cognitive Therapy of Depression. New York, NY: Guilford Press.
+
+Bradshaw, J. (1996). Bradshaw On The Family: A New Way of Creating Solid Self-Esteem (Rev. ed.). Deerfield Beach, Fla.: Health Communications.
 
 
 
