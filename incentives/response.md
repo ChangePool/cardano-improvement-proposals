@@ -32,13 +32,15 @@ The report portrays the Cardano ecosystem fundamentally as a place of lack:
 
 - 
 
+- Whereas the report describes the current state of the Cardano ecosystem as the result of rational behaviour, the report describes consequences consistent with nihilism. A nihilistic viewpoint rejects the existence of inherent meaning, intrinsic value or moral truth in life.
+
 ### II
 
 The report separates Cardano technology development from processes of human interaction and relationship, when the two are intrinsically connected. The report identifies disillusionment within the social network of stake pool operators as a core theme, and proposes that relatively small technical revisions would resolve root causes.
 
 If organizational change does not occur in a timely fashion, the opportunity for things to go wrong and individuals to become disillusioned increases (Aamodt, 2010). Disillusioned SPOs may stop cooperating (Beck et al, 1979).
 
-## Specification
+## What's Missing?
 
 ## Rationale
 
