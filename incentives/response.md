@@ -57,6 +57,7 @@ Beck, A. T., Rush, A. J., F., S. B., & Emery, G. (1979). Cognitive Therapy of De
 Bradshaw, J. (1996). Bradshaw On The Family: A New Way of Creating Solid Self-Esteem (Rev. ed.). Deerfield Beach, Fla.: Health Communications.
 
 Kahneman, D. (2011). Thinking, Fast and Slow. Toronto: Doubleday Canada.
+<!-- https://www.economicsobservatory.com/wellbeing-policy-what-lessons-from-the-nobel-laureate-daniel-kahneman -->
 
 ## Copyright
 
