@@ -32,7 +32,7 @@ Sadly, the report portrays the Cardano ecosystem fundamentally as a place of lac
 
 - 
 
-- While the self-interested behaviour of rational actors arguably has achieved network security, more than 1,300 partipants who operated stake pools in the past have left the Cardano ecosystem in the past two years. Each retired stake pool represents a social network of individuals that the Cardano ecosystem has rejected. Economic theory assuming that human behaviour is rational, consistent and selfish is wrong (Kahneman, 2011).
+- While the self-interested behaviour of rational actors arguably has achieved network security, more than 1,300 partipants who operated stake pools have left the Cardano ecosystem in the past two years. Each retired stake pool represents a social network of individuals that the Cardano ecosystem has rejected. Economic theory assuming that human behaviour is rational, consistent and selfish is wrong (Kahneman, 2011).
 
 - Whereas the report describes the current state of the Cardano ecosystem as the result of rational behaviour, the state of affairs seems more accurately consistent with a nihilistic viewpoint rejecting the existence of inherent meaning, intrinsic value or moral truth. The report provides hard-won evidence that a practice of evidence-based empiricism without a framework including human experience, subjective meaning and pragmatic action is not sustainable (Bradshaw, 1996).
 
