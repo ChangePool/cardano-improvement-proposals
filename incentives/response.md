@@ -46,13 +46,15 @@ If organizational change does not occur in a timely fashion, the opportunity for
 
 ## Specification
 
-Game theory will only take us so far.
+Game theory will only take us so far (Amadae, 2016).
 
 ## Rationale
 
 ## References
 
 Aamodt, M. G. (2010). Industrial/Organizational Psychology: An Applied Approach (6th ed.). Belmont, CA: Wadsworth.
+
+Amadae, S. M. (2016). Prisoners of Reason: Game Theory and Neoliberal Political Economy. New York, NY: Cambridge University Press.
 
 Beck, A. T., Rush, A. J., F., S. B., & Emery, G. (1979). Cognitive Therapy of Depression. New York, NY: Guilford Press.
 
