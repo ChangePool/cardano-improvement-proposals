@@ -46,6 +46,8 @@ If organizational change does not occur in a timely fashion, the opportunity for
 
 ## Specification
 
+Game theory will only take us so far.
+
 ## Rationale
 
 ## References
