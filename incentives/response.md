@@ -42,9 +42,7 @@ Sadly, the report portrays the Cardano fundamentally as an ecosystem of scarcity
 
 ## Specification
 
-Game theory will only take us so far (Amadae, 2016).
-
-The Cardano ecosystem faces issues related to disengagement, comparison and shame leading to a climate of scarcity and "never enough" (Brown, 2012).
+Game theory will only take us so far (Amadae, 2016). The Cardano ecosystem faces issues related to disengagement, comparison and shame leading to a climate of scarcity and "never enough" (Brown, 2012).
 
 
 
