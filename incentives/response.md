@@ -26,9 +26,11 @@ The report oversimplifies human motivation while providing important historical 
 
 ## Motivation
 
-Sadly, the report portrays the Cardano fundamentally as an ecosystem of scarcity:
+Sadly, the report portrays the Cardano fundamentally as an ecosystem of scarcity or lack:
 
-- 
+- The report identifies a long-term economic risk to the sustainability of the Cardano network. The currently subsidized reward model is depleting. The report concludes that without a timely transition to a reward model funded by transaction fees, Cardano will not survive. Further, technologically the network currently cannot process enough transactions to fund a sustainable fee model. Complex development is underway in an effort to resolve the technological bottle necks as soon as possible.
+
+- The report encourages funding for community projects provided by the Cardano Treasury and Project Catalyst to prioritize resources towards identifying and nurturing "killer apps" that would make Cardano indespensible, greatly increasing transaction volume. Unfortunately, in February 2026 Project Catalyst cancelled Funds 15 and 16 indefinitely, announcing a major and lengthy transition to new stewardship of the community funding process. While projects already funded continue to receive funding, funding for new projects is unavailable. Depending on finding killer apps is risky, similar to depending on winning the lottery or going viral on social media.
 
 - Whereas the report describes the current state of the Cardano ecosystem as the result of rational behaviour, the state of affairs seems more accurately consistent with a nihilistic viewpoint rejecting the existence of inherent meaning, intrinsic value or moral truth. The report provides hard-won evidence that a practice of evidence-based empiricism without a framework including human experience, subjective meaning and pragmatic action is not sustainable (Bradshaw, 1996).
 
