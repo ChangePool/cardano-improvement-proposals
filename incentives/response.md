@@ -46,13 +46,13 @@ Sadly, the report portrays the Cardano fundamentally as an ecosystem of scarcity
 
 The social climate of scarcity and "never enough" in the Cardano ecosystem is fueled by disengagement, comparison and shame (Brown, 2012).
 
+Amadae (2016) suggests that game theory will only take us so far. _Figure 1_ illustrates a theory of motivation developed by Maslow (1943). In Maslow's hierarchy, the lower levels represent basic survival needs and tend to be win-lose situations, also referred to as zero sum. In a zero sum situation, one person's gain is another person's loss. In the Cardano ecosystem, the amount of ADA available is finite. ADA delegated to a stake pool is not available for delegation to other pools. Therefore, the Cardano incentive mechanism involves a zero sum, win-lose situation representing only the most basic human needs.
+
 <p align="center">
     <img src="https://github.com/ChangePool/cardano-improvement-proposals/blob/08a922e4ab425914b32f574a8495ed63c8bb19b9/incentives/images/maslows_hierarchy.png" alt="" title="">
     <br>
     <i>Figure 1 - <a href="https://www.bitesizelearning.co.uk/resources/maslows-hierarchy-of-needs-theory">Maslow's Hierarchy of Needs Theory</a></i>
 </p>
-
-Amadae (2016) suggests that game theory will only take us so far. _Figure 1_ illustrates a theory of motivation developed by Maslow (1943). In Maslow's hierarchy, the lower levels represent basic survival needs and tend to be win-lose situations, also referred to as zero sum. In a zero sum situation, one person's gain is another person's loss. In the Cardano ecosystem, the amount of ADA available is finite. ADA delegated to a stake pool is not available for delegation to other pools. Therefore, the Cardano incentive mechanism involves a zero sum, win-lose situation representing only the most basic human needs.
 
 Higher levels in Maslow's hierarchy tend to be positive sum, or win-win situations, driven by innovation, collaboration and trade.
 
