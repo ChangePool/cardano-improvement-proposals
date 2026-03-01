@@ -44,6 +44,10 @@ Sadly, the report portrays the Cardano fundamentally as an ecosystem of scarcity
 
 Game theory will only take us so far (Amadae, 2016).
 
+The Cardano ecosystem faces issues related to disengagement, comparison and shame leading to a climate of scarcity and "never enough" (Brown, 2012).
+
+
+
 ## Rationale
 
 ## References
@@ -55,6 +59,8 @@ Amadae, S. M. (2016). Prisoners of Reason: Game Theory and Neoliberal Political 
 Beck, A. T., Rush, A. J., F., S. B., & Emery, G. (1979). Cognitive Therapy of Depression. New York, NY: Guilford Press.
 
 Bradshaw, J. (1996). Bradshaw On The Family: A New Way of Creating Solid Self-Esteem (Rev. ed.). Deerfield Beach, Fla.: Health Communications.
+
+Brown, B. (2012). Daring Greatly: How the Courage to be Vulnerable Transforms the Way We Live, Love, Parent, and Lead. New York, NY: Gotham Books.
 
 Dante Alighieri. (2012). Inferno (; M. J. Bang, Trans.). Graywolf Press.
 
