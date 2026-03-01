@@ -36,7 +36,7 @@ Sadly, the report portrays the Cardano ecosystem fundamentally as a place of lac
 
 - While the self-interested behaviour of rational actors arguably has achieved network security, about 1,500 partipants who operated stake pools have left the Cardano ecosystem in the past two years. The number continues to increase. Each retired stake pool represents a social network of individuals that the Cardano ecosystem carelessly rejects. Economic theory assuming that human behaviour is rational, consistent and selfish is wrong (Kahneman, 2011).
 
-- While the report concludes that multi-pool operators (MPOs) do not pose a risk to destabilizing the network, the report does not examine the saturation level of pools identified in the MPO category. Operating multiple unsaturated pools instead of a single, larger unsaturated pool betrays and harms the Cardano ecosystem by increasing centralization of the network. ADA delegated to an unsaturated MPO is not available to another potential entrepreneur in the ecosystem. According to Dante (2012), betrayal may be the ultimate sin.
+- While the report concludes that multi-pool operators (MPOs) do not pose a risk to destabilizing the network, the report ignores the saturation level of pools identified in the MPO category. Operating multiple unsaturated pools instead of a single, larger unsaturated pool harms and betrays the ethos of the Cardano ecosystem by increasing centralization of the network. ADA delegated to an unsaturated MPO is not available to support another potential entrepreneur in the ecosystem. According to Dante (2012), betrayal may be the ultimate sin.
 
 
 
