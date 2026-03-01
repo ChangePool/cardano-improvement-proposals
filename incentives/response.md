@@ -26,8 +26,6 @@ The report oversimplifies human motivation while providing important historical 
 
 ## Motivation
 
-### I
-
 Sadly, the report portrays the Cardano ecosystem fundamentally as a place of lack:
 
 - 
@@ -38,13 +36,9 @@ Sadly, the report portrays the Cardano ecosystem fundamentally as a place of lac
 
 - While the report concludes that multi-pool operators (MPOs) do not pose a significant risk to the stability of the network, the report ignores the saturation level of pools identified in the MPO category. Operating multiple unsaturated pools instead of a single, larger unsaturated pool betrays the Cardano ecosystem by increasing network centralization. The real harm that MPOs cause to Cardano may not be quantifiable because ADA delegated to an unsaturated MPO is not available to support another potential entrepreneur in the ecosystem, as the design would intend. Betrayal may be the ultimate sin (Dante, 2012).
 
+- The report identifies disillusionment within the social network of stake pool operators as a core theme, and proposes that relatively small technical revisions would resolve root causes. However, the report separates Cardano technology development from processes of human interaction and relationship, when the two are intrinsically connected. If organizational change does not occur in a timely fashion, the opportunity for things to go wrong and individuals to become disillusioned increases (Aamodt, 2010). Disillusioned SPOs may stop cooperating (Beck et al, 1979).
 
 
-### II
-
-The report separates Cardano technology development from processes of human interaction and relationship, when the two are intrinsically connected. The report identifies disillusionment within the social network of stake pool operators as a core theme, and proposes that relatively small technical revisions would resolve root causes.
-
-If organizational change does not occur in a timely fashion, the opportunity for things to go wrong and individuals to become disillusioned increases (Aamodt, 2010). Disillusioned SPOs may stop cooperating (Beck et al, 1979).
 
 ## Specification
 
