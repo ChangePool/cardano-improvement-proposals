@@ -49,7 +49,7 @@ The social climate of scarcity and "never enough" in the Cardano ecosystem is fu
 <p align="center">
     <img src="https://github.com/paradoxicalsphere/cardano-improvement-proposals/blob/67ec3da1c085f86ae2ae9f74548a5c9ff5463973/CIP-x/images/Here%20to%20Help.png" alt="" title="">
     <br>
-    <i>Figure 1 - <a href="https://xkcd.com/1831/">Here to Help</a></i>
+    <i>Figure 1 - <a href="https://www.bitesizelearning.co.uk/resources/maslows-hierarchy-of-needs-theory">Maslow's Hierarchy of Needs Theory</a></i>
 </p>
 
 Game theory will only take us so far (Amadae, 2016). 
