@@ -72,7 +72,7 @@ Bradshaw, J. (1996). Bradshaw On The Family: A New Way of Creating Solid Self-Es
 
 Brown, B. (2012). Daring Greatly: How the Courage to be Vulnerable Transforms the Way We Live, Love, Parent, and Lead. New York, NY: Gotham Books.
 
-Dante Alighieri. (2012). Inferno (; M. J. Bang, Trans.). Graywolf Press.
+Dante Alighieri. (2012). Inferno (M. J. Bang, Trans.). Graywolf Press.
 
 Kahneman, D. (2011). Thinking, Fast and Slow. Toronto: Doubleday Canada.
 <!-- https://www.economicsobservatory.com/wellbeing-policy-what-lessons-from-the-nobel-laureate-daniel-kahneman -->
