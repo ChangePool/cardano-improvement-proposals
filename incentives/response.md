@@ -8,7 +8,7 @@
 
 ---
 
-Title: Cardano: Doomed to Survive—Not Thrive  
+Title: Cardano: Doomed to Survive—Not Thrive?  
 Author: Paradoxical Sphere <support@paradoxicalsphere.com>  
 Cardano Stake Pool: [Change](https://coincashew.io)  
 Status: Draft  
