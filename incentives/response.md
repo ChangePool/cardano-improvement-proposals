@@ -47,7 +47,7 @@ Sadly, the report portrays the Cardano fundamentally as an ecosystem of scarcity
 The social climate of scarcity and "never enough" in the Cardano ecosystem is fueled by disengagement, comparison and shame (Brown, 2012).
 
 <p align="center">
-    <img src="https://github.com/paradoxicalsphere/cardano-improvement-proposals/blob/67ec3da1c085f86ae2ae9f74548a5c9ff5463973/CIP-x/images/Here%20to%20Help.png" alt="" title="">
+    <img src="https://github.com/ChangePool/cardano-improvement-proposals/blob/08a922e4ab425914b32f574a8495ed63c8bb19b9/incentives/images/maslows_hierarchy.png" alt="" title="">
     <br>
     <i>Figure 1 - <a href="https://www.bitesizelearning.co.uk/resources/maslows-hierarchy-of-needs-theory">Maslow's Hierarchy of Needs Theory</a></i>
 </p>
