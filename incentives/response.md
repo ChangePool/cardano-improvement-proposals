@@ -44,7 +44,7 @@ Sadly, the report portrays the Cardano fundamentally as an ecosystem of scarcity
 
 ## Specification
 
-Game theory will only take us so far (Amadae, 2016). The climate of scarcity and "never enough" in the Cardano ecosystem is fueled by disengagement, comparison and shame (Brown, 2012).
+Game theory will only take us so far (Amadae, 2016). The social climate of scarcity and "never enough" in the Cardano ecosystem is fueled by disengagement, comparison and shame (Brown, 2012). Who in Cardano will make choices based on their beliefs and values to challenge the larger culture of scarcity?
 
 
 
