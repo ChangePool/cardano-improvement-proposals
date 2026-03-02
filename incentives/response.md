@@ -58,7 +58,7 @@ Higher levels in Maslow's hierarchy associated with thriving tend to be positive
 
 ## Rationale
 
-Who is sick of feeling afraid? Who in Cardano will make choices based on their beliefs and values to challenge the cultural norms driven by a focus on scarcity?
+Who is sick of feeling afraid? Who in Cardano will make choices based on their values and beliefs to challenge the cultural norms driven by a focus on scarcity?
 
 ## References
 
