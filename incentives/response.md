@@ -26,7 +26,7 @@ The report oversimplifies human motivation while providing important historical 
 
 ## Motivation
 
-Sadly, the report portrays the Cardano fundamentally as an ecosystem of scarcity or lack:
+Sadly, the report portrays Cardano fundamentally as an ecosystem of scarcity or lack:
 
 - The report identifies a long-term economic risk to the sustainability of the Cardano network. The currently subsidized reward model is depleting. The report concludes that without a timely transition to a reward model funded by transaction fees, Cardano will not survive. Further, technologically the network currently cannot process enough transactions to fund a sustainable fee model. Complex development is underway in an effort to resolve the technological bottle necks as soon as possible.
 
