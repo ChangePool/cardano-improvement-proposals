@@ -52,7 +52,7 @@ Amadae (2016) recognizes that game theory will only take us so far. _Figure 1_ i
     <i>Figure 1 - <a href="https://www.bitesizelearning.co.uk/resources/maslows-hierarchy-of-needs-theory">Maslow's Hierarchy of Needs Theory</a></i>
 </p>
 
-Higher levels in Maslow's hierarchy associated with thriving tend to be more robust, positive sum, win-win situations driven by possibility, creativity, innovation, collaboration and trade.
+Higher levels in Maslow's hierarchy associated with thriving tend to be more robust, positive sum, win-win situations driven by possibility, innovation, creativity, collaboration and trade.
 
 ## Rationale
 
