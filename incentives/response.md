@@ -64,9 +64,7 @@ Who is sick of feeling afraid? Who in Cardano will make choices based on their v
 
 ## Path to Active
 
-Compare long- and short-term benefits and costs of the current reward system (Hardin & Steinberger, 2013).
-
-In order to preserve the ADA reserves subsidizing the current reward system as long as possible, the current CIP proposes submitting a governance action to reduce rewards as soon as possible by about half.
+Compare long- and short-term benefits and costs of the current reward system (Hardin & Steinberger, 2013). In order to preserve the ADA reserves subsidizing the current reward system as long as possible, the current CIP proposes submitting a governance action to reduce rewards as soon as possible by about half.
 
 ## References
 
