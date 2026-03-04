@@ -64,7 +64,7 @@ Who is sick of feeling afraid? Who in Cardano will make choices based on their v
 
 ## Path to Active
 
-In order to preserve the ADA reserves subsidizing the current reward system as long as possible, who would support a governance action to reduce rewards by about half as soon as possible?
+In order to preserve the ADA reserves subsidizing the current reward system as long as possible, the current CIP proposes submitting a governance action to reduce rewards by about half as soon as possible.
 
 ## References
 
