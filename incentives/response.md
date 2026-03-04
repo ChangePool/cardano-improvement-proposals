@@ -64,6 +64,8 @@ Who is sick of feeling afraid? Who in Cardano will make choices based on their v
 
 ## Path to Active
 
+Compare long- and short-term benefits and costs of the current reward system (Hardin & Steinberger, 2013).
+
 In order to preserve the ADA reserves subsidizing the current reward system as long as possible, the current CIP proposes submitting a governance action to reduce rewards as soon as possible by about half.
 
 ## References
@@ -79,6 +81,8 @@ Bradshaw, J. (1996). Bradshaw On The Family: A New Way of Creating Solid Self-Es
 Brown, B. (2012). Daring Greatly: How the Courage to be Vulnerable Transforms the Way We Live, Love, Parent, and Lead. New York, NY: Gotham Books.
 
 Dante Alighieri. (2012). Inferno (M. J. Bang, Trans.). Graywolf Press.
+
+Hardin, R., & Steinberger, H. (2013). SMART Recovery Handbook.
 
 Kahneman, D. (2011). Thinking, Fast and Slow. Toronto: Doubleday Canada.
 <!-- https://www.economicsobservatory.com/wellbeing-policy-what-lessons-from-the-nobel-laureate-daniel-kahneman -->
