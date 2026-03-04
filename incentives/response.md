@@ -22,7 +22,7 @@ License: DMCA
 
 The _Analysis of Cardano's Incentive Mechanism_ report aims to assess the economic health and performance of Cardano’s stake pool incentive scheme, including the delegation model used to define network security, considering the original design goals based on game theory.
 
-The report oversimplifies human motivation while providing important historical information about the long-term effects of the incentive mechanism on the health and wellbeing of stake pool operators (SPOs).
+The report oversimplifies human motivation while providing important historical information about the long-term effects of the incentive mechanism on the health and wellbeing of the social network of stake pools.
 
 ## Motivation
 
@@ -40,7 +40,7 @@ Sadly, the report portrays Cardano fundamentally as an ecosystem of scarcity and
 
 - While the report concludes that multi-pool operators (MPOs) do not pose a significant risk to the stability of the network, the report ignores the saturation level of pools identified in the MPO category. Operating multiple unsaturated pools instead of a single, larger unsaturated pool betrays the Cardano ecosystem by increasing network centralization. The real harm that MPOs cause to Cardano may not be quantifiable because ADA delegated to unsaturated MPOs is not available to support other potential entrepreneurs in the ecosystem, as the design would intend. As Dante (2012) suggests, betrayal may be the ultimate sin.
 
-- The report identifies disillusionment and disenfranchisement within the social network of stake pool operators as a core theme, and proposes that relatively small technical revisions would resolve root causes. However, the report separates technology development from processes of human interaction and relationship, when the two are intrinsically connected. Can a dysfunctional network in which disillusionment grows really be secure? Just surviving is fragile—insufficient. If organizational change does not occur in a timely fashion, the opportunity for things to go wrong and more individuals to become disillusioned increases (Aamodt, 2010). Disillusioned or disenfranchised community members may stop cooperating (Beck et al, 1979).
+- The report identifies disillusionment and disenfranchisement within the social network of stake pools as a core theme, and proposes that relatively small technical revisions would resolve root causes. However, the report separates technology development from processes of human interaction and relationship, when the two are intrinsically connected. Can a dysfunctional network in which disillusionment grows really be secure? Just surviving is fragile—insufficient. If organizational change does not occur in a timely fashion, the opportunity for things to go wrong and more individuals to become disillusioned increases (Aamodt, 2010). Disillusioned or disenfranchised community members may stop cooperating (Beck et al, 1979).
 
 ## Specification
 
@@ -58,7 +58,7 @@ Higher levels in Maslow's hierarchy associated with thriving tend to be more rob
 
 ## Rationale
 
-While the _Analysis of Cardano's Incentive Mechanism_ report concludes that determining a set of parameters to address the identified risks is relatively straightforward, a sound research-based argument may be made that in a model allowing for mass adoption, no combination of mechanisms and parameters alone may sufficiently incentivize healthier participation in the Cardano ecosystem.
+While the _Analysis of Cardano's Incentive Mechanism_ report concludes that determining a set of parameters to address the identified risks is relatively straightforward, details in the report indicate that based on a sound research-based model allowing for mass adoption, no combination of mechanisms and parameters alone may sufficiently incentivize a healthier Cardano ecosystem.
 
 Who is sick of feeling afraid? Who in Cardano will make choices based on their values and beliefs to challenge the cultural norms driven by a focus on scarcity?
 
