@@ -58,7 +58,7 @@ Higher levels in Maslow's hierarchy associated with thriving tend to be more rob
 
 ## Rationale
 
-While the report concludes that identifying a set of parameters to address the identified risks is relatively straightforward, a sound research-based argument may be made that no combination of mechanisms and parameters alone may exist to address the risks, in a model allowing for mass adoption.
+While the report concludes that identifying a set of parameters to address the identified risks is relatively straightforward, a sound research-based argument may be made that no combination of mechanisms and parameters alone may exist to address the risks successfully, in a model allowing for mass adoption.
 
 Who is sick of feeling afraid? Who in Cardano will make choices based on their values and beliefs to challenge the cultural norms driven by a focus on scarcity?
 
