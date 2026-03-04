@@ -62,6 +62,10 @@ While the report concludes that identifying a set of parameters to address the i
 
 Who is sick of feeling afraid? Who in Cardano will make choices based on their values and beliefs to challenge the cultural norms driven by a focus on scarcity?
 
+## Path to Active
+
+In order to preserve the ADA reserves subsidizing the current reward system as long as possible, who would support a governance action to reduce rewards by about half as soon as possible?
+
 ## References
 
 Aamodt, M. G. (2010). Industrial/Organizational Psychology: An Applied Approach (6th ed.). Belmont, CA: Wadsworth.
