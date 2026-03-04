@@ -60,7 +60,7 @@ Maslow hypothesizes that lower-level needs must be satisfied before higher-level
 
 ## Rationale
 
-While the _Analysis of Cardano's Incentive Mechanism_ report concludes that determining a set of parameters to address the identified risks is relatively straightforward, details in the report indicate that based on a sound research-based model allowing for mass adoption, no combination of mechanisms and parameters alone may sufficiently incentivize a healthier Cardano ecosystem.
+While the _Analysis of Cardano's Incentive Mechanism_ report concludes that determining a set of parameters to address the identified risks is relatively straightforward, based on a sound research-based model allowing for mass adoption, details in the report indicate that no combination of mechanisms and parameters alone may sufficiently incentivize a healthier Cardano ecosystem.
 
 Who is sick of feeling afraid? Who in Cardano will make choices based on their values and beliefs to challenge the cultural norms driven by a focus on scarcity?
 
