@@ -60,7 +60,7 @@ Higher levels in Maslow's hierarchy associated with thriving tend to be more rob
 
 ## Rationale
 
-While the _Analysis of Cardano's Incentive Mechanism_ report concludes that determining a set of parameters to address the identified risks is relatively straightforward, based on a sound research-based model allowing for the possibility of mass adoption, details in the report indicate that no combination of mechanisms and parameters alone may sufficiently incentivize a healthier, more mature Cardano ecosystem.
+While the _Analysis of Cardano's Incentive Mechanism_ report concludes that determining a set of parameters to address the identified risks is relatively straightforward, based on a sound research-based model allowing for the possibility of mass adoption, details in the report indicate that no combination of mechanisms and parameters alone may sufficiently incentivize a healthier, more responsive Cardano ecosystem.
 
 Who is sick of feeling afraid? Who in Cardano will make choices based on their values and beliefs to challenge the cultural norms driven by a focus on scarcity?
 
