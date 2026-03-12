@@ -20,17 +20,12 @@ License: DMCA
 
 ## Abstract
 
-
 <p align="center">
   <code>"A good article."</code>
 </p>
 <p align="center">
 <code>—Jon Kravetz, CEO, <a href="https://www.cswap.info/">CSWAP DEX</a></code>
 </p>
-
-
-
-
 
 The _Analysis of Cardano's Incentive Mechanism_ report aims to assess the economic health and performance of Cardano’s stake pool incentive scheme, including the delegation model used to define network security, considering the original design goals based on game theory.
 
@@ -84,7 +79,7 @@ Who is sick of feeling afraid? Who in Cardano will make choices based on their v
 
 ## Path to Active
 
-Comparing long- and short-term benefits as well as costs (Hardin & Steinberger, 2013), in order to conserve the ADA reserves currently subsidizing the reward system unsustainably, the current CIP proposes submitting a Cardano governance action to reduce staking rewards as soon as possible by about half.
+Comparing long- and short-term benefits as well as costs (Hardin & Steinberger, 2013), in order to conserve the ADA reserves currently subsidizing the staking reward system unsustainably, the current CIP proposes submitting a Cardano governance action to reduce rewards as soon as possible by about half.
 
 ## References
 
