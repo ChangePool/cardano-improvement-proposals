@@ -21,7 +21,7 @@ License: DMCA
 ## Abstract
 
 <p align="center">
-  <code>"A good article."</code>
+  <code>"Yeah, it's a good article."</code>
 </p>
 <p align="center">
 <code>—Jon Kravetz, CEO, <a href="https://www.cswap.info/">CSWAP DEX</a></code>
