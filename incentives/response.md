@@ -31,7 +31,7 @@ The _Analysis of Cardano's Incentive Mechanism_ report aims to assess the econom
 
 The report oversimplifies human motivation while providing important historical information about the long-term effects of the incentive mechanism on the health and wellbeing of the social network of stake pool operators and delegators.
 
-While the report identifies the symptom of disillusionment amongst stake pool operators, the report fails to explore risks for Cardano associated with ongoing or growing disillusionment.
+While the report identifies the symptom of disillusionment amongst stake pool operators, the report fails to explore risks for Cardano associated with ongoing or growing disillusionment. The report incorrectly identifies the symptom of disillusionment as a risk.
 
 Fundamentally, the report fails to consider a scenario where the incentive mechanism alone—whether the current mechanism, a fine-tuned mechanism or a completely overhauled mechanism—may be insufficient to sustain the Cardano ecosystem. The current CIP examines the broader contingency.
 
