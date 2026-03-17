@@ -74,7 +74,7 @@ Higher levels in Maslow's hierarchy associated with thriving—which everyone wa
 
 ## Rationale
 
-While the _Analysis of Cardano's Incentive Mechanism_ report concludes that determining a set of parameters to address the identified risks is relatively straightforward, applying a sound research-based model allowing for the possibility of mass adoption, details in the report indicate that no combination of mechanisms and parameters alone may sufficiently incentivize or encourage a healthier, more responsive and responsible Cardano ecosystem.
+While the _Analysis of Cardano's Incentive Mechanism_ report concludes that determining a set of parameters to address the identified concerns is relatively straightforward, applying a sound research-based model allowing for the possibility of mass adoption, details in the report indicate that no combination of mechanisms and parameters alone may sufficiently incentivize or encourage a healthier, more responsive and responsible Cardano ecosystem.
 
 <b>In the short to medium term, the Cardano ecosystem shapes the community and the behaviour of community members. In the longer term, the individual and collective behaviour of community members shapes the ecosystem.</b>
 <!-- Source: https://www.youtube.com/watch?v=mScpHTIi-kM -->
