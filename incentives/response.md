@@ -75,7 +75,7 @@ Higher levels in Maslow's hierarchy associated with thriving—which everyone wa
 ## Rationale
 
 <p align="center">
-  <code>""</code>Problems that remain persistently insoluble should always be suspected as questions asked in the wrong way."</code>
+  <code>"Problems that remain persistently insoluble should always be suspected as questions asked in the wrong way."</code>
 </p>
 <p align="center">
   <code>—Alan Watts</code>
