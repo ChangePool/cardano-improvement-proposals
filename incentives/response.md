@@ -24,7 +24,7 @@ License: DMCA
   <code>"Yeah, it's a good article."</code>
 </p>
 <p align="center">
-<code>—Jon Kravetz, CEO, <a href="https://www.cswap.info/">CSWAP DEX</a></code>
+  <code>—Jon Kravetz, CEO, <a href="https://www.cswap.info/">CSWAP DEX</a></code>
 </p>
 
 The _Analysis of Cardano's Incentive Mechanism_ report aims to assess the economic health and performance of Cardano’s stake pool incentive scheme, including the delegation model used to define network security, considering the original design goals based on game theory.
@@ -73,6 +73,13 @@ Maslow hypothesizes that lower-level needs must be satisfied before higher-level
 Higher levels in Maslow's hierarchy associated with thriving—which everyone wants for Cardano—tend to be more robust, positive sum, win-win situations driven by possibility, innovation, creativity, collaboration and trade.
 
 ## Rationale
+
+<p align="center">
+  <code>""</code>Problems that remain persistently insoluble should always be suspected as questions asked in the wrong way."</code>
+</p>
+<p align="center">
+  <code>—Alan Watts</code>
+</p>
 
 While the _Analysis of Cardano's Incentive Mechanism_ report concludes that determining a set of parameters to address the identified concerns is relatively straightforward, applying a sound research-based model allowing for the possibility of mass adoption, details in the report indicate that no combination of mechanisms and parameters alone may sufficiently incentivize or encourage a healthier, more responsive and responsible Cardano ecosystem.
 
