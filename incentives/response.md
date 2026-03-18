@@ -90,7 +90,7 @@ Who is sick of feeling afraid? Who in Cardano will make choices based on their v
 
 ## Path to Active
 
-Comparing long- and short-term benefits as well as costs (Hardin & Steinberger, 2013), in order to conserve the ADA reserves currently subsidizing the staking reward system unsustainably, the current CIP proposes submitting a Cardano governance action to reduce rewards as soon as possible by about half.
+Comparing long- and short-term benefits as well as costs (Hardin & Steinberger, 2013), in order to conserve the ADA reserves currently subsidizing the staking reward system unsustainably and buy time, the current CIP proposes submitting a Cardano governance action to reduce rewards as soon as possible by about half.
 
 ## References
 
