@@ -57,6 +57,13 @@ Sadly, the report portrays Cardano fundamentally as an ecosystem of scarcity and
 
 ## Specification
 
+<p align="center">
+  <code>"Problems that remain persistently insoluble should always be suspected as questions asked in the wrong way."</code>
+</p>
+<p align="center">
+  <code>—Alan Watts</code>
+</p>
+
 The social climate of scarcity and "never enough" in the Cardano ecosystem is fueled by disengagement, comparison and shame (Brown, 2012).
 
 Amadae (2016) recognizes that game theory will only take us so far. _Figure 1_ illustrates a theory of motivation developed by Maslow (1943). In Maslow's hierarchy, the lower levels represent basic survival needs and tend to be win-lose situations, also referred to as zero sum. In a zero sum situation, one person's gain is another person's loss. In the Cardano ecosystem, the amount of ADA available is finite. ADA delegated to a stake pool is not available for delegation to other pools. Therefore, the incentives in Cardano comprised of mechanisms and parameters that remain a constant focus or excuse represent a zero sum, win-lose situation supporting only the most basic human needs for survival.
@@ -73,13 +80,6 @@ Maslow hypothesizes that lower-level needs must be satisfied before higher-level
 Higher levels in Maslow's hierarchy associated with thriving—which everyone wants for Cardano—tend to be more robust, positive sum, win-win situations driven by possibility, innovation, creativity, collaboration and trade.
 
 ## Rationale
-
-<p align="center">
-  <code>"Problems that remain persistently insoluble should always be suspected as questions asked in the wrong way."</code>
-</p>
-<p align="center">
-  <code>—Alan Watts</code>
-</p>
 
 While the _Analysis of Cardano's Incentive Mechanism_ report concludes that determining a set of parameters to address the identified concerns is relatively straightforward, applying a sound research-based model allowing for the possibility of mass adoption, details in the report indicate that no combination of mechanisms and parameters alone may sufficiently incentivize or encourage a healthier, more responsive and responsible Cardano ecosystem.
 
