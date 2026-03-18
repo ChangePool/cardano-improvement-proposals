@@ -24,7 +24,7 @@ License: DMCA
   <code>"Yeah, it's a good article."</code>
 </p>
 <p align="center">
-  <code>—<a href="https://youtu.be/Wumw1iA-QUI">Jon Kravetz</a>, CEO, <a href="https://www.cswap.info/">CSWAP DEX</a></code>
+  <code>—<a href="https://m.youtube.com/watch?v=Wumw1iA-QUI">Jon Kravetz</a>, CEO, <a href="https://www.cswap.info/">CSWAP DEX</a></code>
 </p>
 
 The _Analysis of Cardano's Incentive Mechanism_ report aims to assess the economic health and performance of Cardano’s stake pool incentive scheme, including the delegation model used to define network security, considering the original design goals based on game theory.
