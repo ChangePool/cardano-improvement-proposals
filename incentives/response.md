@@ -31,7 +31,7 @@ The _Analysis of Cardano's Incentive Mechanism_ report aims to assess the econom
 
 Unfortunately, the report oversimplifies human motivation. However, the report does provide important historical information about the long-term effects of the incentive mechanism on the health and wellbeing of the social network of stake pool operators and delegators.
 
-Fundamentally, the report fails to consider a scenario where the incentive mechanism alone—whether the current mechanism, a fine-tuned mechanism or a completely overhauled mechanism—may be insufficient to sustain the Cardano ecosystem. The current CIP examines the broader contingency.
+Essentially, the report fails to consider a scenario where the incentive mechanism alone—whether the current mechanism, a fine-tuned mechanism or a completely overhauled mechanism—may be insufficient to sustain the Cardano ecosystem. The current CIP examines the broader contingency.
 
 ## Motivation
 
