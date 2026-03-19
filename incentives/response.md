@@ -90,7 +90,7 @@ Who is sick of feeling afraid? Who in Cardano will make choices based on their v
 
 ## Path to Active
 
-Comparing long- and short-term benefits as well as costs (Hardin & Steinberger, 2013) while acknowledging the general difficulty for members in the Cardano community to make decisions based on values that are not numeric, the current CIP proposes submitting a Cardano governance action to buy time for Cardano by reducing rewards about 50 percent as soon as possible in order to conserve the ADA reserves currently subsidizing the staking reward system unsustainably.
+Comparing long- and short-term benefits as well as costs (Hardin & Steinberger, 2013) while acknowledging the general difficulty for members of the Cardano community to make decisions based on values that are not numeric, the current CIP proposes submitting a Cardano governance action to buy time for Cardano by reducing rewards about 50 percent as soon as possible in order to conserve the ADA reserves currently subsidizing the staking reward system unsustainably.
 
 ## References
 
