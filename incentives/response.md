@@ -97,7 +97,7 @@ Who is sick of feeling afraid? Who in Cardano will make choices based on their v
   <code>—Securities and Exchange Commission (SEC), <a href="https://www.sec.gov/files/rules/interp/2026/33-11412.pdf">Application of the Federal Securities Laws to Certain Types of Crypto Assets and Certain Transactions Involving Crypto Assets</a></code>
 </p>
 
-According to the SEC, crypto systems that do not successfully attract users who cooperate and coordinate are not functional. Comparing long- and short-term benefits as well as costs (Hardin & Steinberger, 2013) while acknowledging a history of general difficulty within the Cardano community to make decisions based on positive sum (non-numeric) values, the current CIP proposes submitting a Cardano governance action to buy time for Cardano to continue surviving by reducing rewards about 50 percent as soon as possible as a method of conserving the ADA reserves currently subsidizing the staking reward system unsustainably.
+According to the SEC, crypto systems that do not successfully attract users who cooperate and coordinate are not functional. Comparing long- and short-term benefits as well as costs (Hardin & Steinberger, 2013) while acknowledging a history of general difficulty within the Cardano community to make decisions based on positive sum (non-numeric) values, the current CIP proposes submitting a Cardano governance action to buy time for Cardano to survive longer by reducing rewards about 50 percent as soon as possible, as a method of conserving the ADA reserves currently subsidizing the staking reward system unsustainably.
 
 ## References
 
