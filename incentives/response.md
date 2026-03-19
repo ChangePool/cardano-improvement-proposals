@@ -90,6 +90,13 @@ Who is sick of feeling afraid? Who in Cardano will make choices based on their v
 
 ## Path to Active
 
+<p align="center">
+  <code>"Users of a functional crypto system use the system’s native digital commodity to interact with the system’s features and functionalities. A functional crypto system incorporates economic mechanisms that reward voluntary cooperation and coordination among the system’s users. Users are encouraged to participate in a functional crypto system based on its economic mechanism design, and developers are incentivized to build crypto applications for functional crypto systems that successfully attract users."</code>
+</p>
+<p align="center">
+  <code>—<a href="https://www.sec.gov/files/rules/interp/2026/33-11412.pdf">Application of the Federal Securities Laws to Certain Types of Crypto Assets and Certain Transactions Involving Crypto Assets</a></code>
+</p>
+
 Comparing long- and short-term benefits as well as costs (Hardin & Steinberger, 2013) while acknowledging a history of general difficulty within the Cardano community to make decisions based on values that are non-numeric, the current CIP proposes submitting a Cardano governance action to buy time for Cardano by reducing rewards about 50 percent as soon as possible in order to conserve the ADA reserves currently subsidizing the staking reward system unsustainably.
 
 ## References
