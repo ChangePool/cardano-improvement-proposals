@@ -24,7 +24,7 @@ License: DMCA
   <code>"Yeah, it's a good article."</code>
 </p>
 <p align="center">
-  <code>—<a href="https://m.youtube.com/watch?v=Wumw1iA-QUI">Jon Kravetz</a>, CEO, <a href="https://www.cswap.info/">CSWAP DEX</a></code>
+  <code>—<a href="https://m.youtube.com/watch?v=Wumw1iA-QUI" target="_blank">Jon Kravetz</a>, CEO, <a href="https://www.cswap.info/" target="_blank">CSWAP DEX</a></code>
 </p>
 
 The _Analysis of Cardano's Incentive Mechanism_ report aims to assess the economic health and performance of Cardano’s stake pool incentive scheme, including the delegation model used to define network security, considering the original design goals based on game theory.
@@ -39,7 +39,7 @@ Sadly, the report portrays Cardano fundamentally as an ecosystem of scarcity and
 
 - The report identifies a long-term economic risk to the sustainability of the Cardano network. The currently subsidized reward model is depleting. The report concludes that without a timely transition to a reward model funded by transaction fees, Cardano will not survive. Further, technologically the network currently cannot process enough transactions to fund a sustainable fee model. Complex development is underway in an effort to resolve the technological bottlenecks as soon as possible.
 
-- The report encourages funding for community projects provided by the Cardano Treasury and Project Catalyst to prioritize resources towards identifying and nurturing "killer apps" that would make Cardano indispensable, greatly increasing transaction volume. Unfortunately, in February 2026 Project Catalyst cancelled Funds 15 and 16 indefinitely, announcing a major and lengthy transition to new stewardship of the community funding process. Projects projects already funded continue receiving funding. However, no funding is available for new projects. While Cardano may get lucky, depending on creating "killer apps" is risky, similar to depending on winning the lottery or going viral on social media.
+- The report encourages funding for community projects provided by the Cardano Treasury and Project Catalyst to prioritize resources towards identifying and nurturing "killer apps" that would make Cardano indispensable, greatly increasing transaction volume. Unfortunately, in February 2026 Project Catalyst cancelled Funds 15 and 16 indefinitely, announcing a major and lengthy <a href="https://adastat.net/governances/b518efa466593906ab388f978b3695449809aacdf28d2aaf4eb5ba16b3c24a1e00" target="_blank">transition</a> to new stewardship of the community funding process. Projects projects already funded continue receiving funding. However, no funding is available for new projects. While Cardano may get lucky, depending on creating "killer apps" is risky, similar to depending on winning the lottery or going viral on social media.
 
 - Whereas the report describes the current state of the Cardano ecosystem as the result of rational behavior, the state of affairs seems more accurately consistent with a nihilistic viewpoint rejecting the existence of inherent meaning, intrinsic value or moral truth. What is the probability of survival for a network having little or no reason to exist? The report provides hard-won evidence that a practice of evidence-based empiricism without a framework including human experience, subjective meaning and pragmatic action is not sustainable (Bradshaw, 1996).
 
@@ -72,7 +72,7 @@ Amadae (2016) recognizes that game theory will only take us so far. A world crea
     <!--<img src="https://github.com/ChangePool/cardano-improvement-proposals/blob/08a922e4ab425914b32f574a8495ed63c8bb19b9/incentives/images/maslows_hierarchy.png" alt="" title="">-->
     <img src="https://github.com/ChangePool/cardano-improvement-proposals/blob/81653db02a64bc3f20c4128ebed7043fb194e278/incentives/images/maslows_hierarchy.png" alt="" title="">
     <br>
-    <i>Figure 1 - <a href="https://www.bitesizelearning.co.uk/resources/maslows-hierarchy-of-needs-theory">Maslow's Hierarchy of Needs Theory</a></i>
+    <i>Figure 1 - <a href="https://www.bitesizelearning.co.uk/resources/maslows-hierarchy-of-needs-theory" target="_blank">Maslow's Hierarchy of Needs Theory</a></i>
 </p>
 
 Maslow hypothesizes that lower-level needs must be satisfied before higher-level needs can become motivators.
@@ -94,7 +94,7 @@ Who is sick of feeling afraid? Who in Cardano will make choices based on their v
   <code>"Users of a functional crypto system use the system’s native digital commodity to interact with the system’s features and functionalities. A functional crypto system incorporates economic mechanisms that reward voluntary cooperation and coordination among the system’s users. Users are encouraged to participate in a functional crypto system based on its economic mechanism design, and developers are incentivized to build crypto applications for functional crypto systems that successfully attract users."</code>
 </p>
 <p align="center">
-  <code>—Securities and Exchange Commission (SEC), <a href="https://www.sec.gov/files/rules/interp/2026/33-11412.pdf">Application of the Federal Securities Laws to Certain Types of Crypto Assets and Certain Transactions Involving Crypto Assets</a></code>
+  <code>—Securities and Exchange Commission (SEC), <a href="https://www.sec.gov/files/rules/interp/2026/33-11412.pdf" target="_blank">Application of the Federal Securities Laws to Certain Types of Crypto Assets and Certain Transactions Involving Crypto Assets</a></code>
 </p>
 
 According to the SEC, functional crypto systems successfully attract users who voluntarily cooperate and coordinate. Comparing long- and short-term benefits as well as costs (Hardin & Steinberger, 2013) while acknowledging a history of general difficulty within the Cardano ecosystem to reach decisions involving positive sum (non-numeric) values, the current CIP proposes submitting a Cardano governance action allowing Cardano to survive longer by reducing rewards about 50 percent as soon as possible, conserving the ADA reserves currently subsidizing the staking reward system unsustainably.
