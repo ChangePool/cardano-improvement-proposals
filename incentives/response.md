@@ -77,7 +77,7 @@ Amadae (2016) recognizes that game theory will only take us so far. A world crea
 
 Maslow hypothesizes that lower-level needs must be satisfied before higher-level needs can become motivators.
 
-Higher levels in Maslow's hierarchy associated with thriving—which everyone presumably wants for Cardano—tend to be more robust, positive sum, win-win situations driven by possibility, innovation, creativity, collaboration and trade.
+Higher levels in Maslow's hierarchy associated with thriving—which we want for Cardano—tend to be more robust, positive sum, win-win situations driven by possibility, innovation, creativity, collaboration and trade.
 
 ## Rationale
 
