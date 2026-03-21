@@ -79,11 +79,11 @@ Maslow hypothesizes that lower-level needs must be satisfied before higher-level
 
 Higher levels in Maslow's hierarchy associated with thriving—which we want for Cardano—tend to be more robust, positive sum, win-win situations driven by possibility, innovation, creativity, collaboration and trade.
 
-Absence of higher-level motivators suggests that lower-level needs may not be met. The _Incentives_ report concluding that the Cardano network is secure without observing that the ecosystem is beginning to thrive—at least—seems inconsistent.
+Absence of higher-level motivators suggests that lower-level needs may not be met. <!--The _Incentives_ report concluding that the Cardano network is secure without finding that the ecosystem may at least be beginning to thrive fuels rather than dispels disillusionment and disenfranchisement.-->
 
 ## Rationale
 
-While the _Analysis of Cardano's Incentive Mechanism_ report concludes that determining a set of parameters to address the identified concerns is relatively straightforward, applying a sound research-based model allowing for the possibility of mass adoption, details in the report indicate that no combination of mechanisms and parameters alone may sufficiently incentivize or encourage a healthier, more responsive and responsible Cardano ecosystem.
+While the _Analysis of Cardano's Incentive Mechanism_ report concludes that determining a set of parameters to address the identified concerns is relatively straightforward, applying a sound research-based model allowing for the possibility of mass adoption, details presented in the report indicate that no combination of mechanisms and parameters alone may sufficiently incentivize or encourage a healthier, more responsive and responsible Cardano ecosystem.
 
 <b>In the short to medium term, the Cardano ecosystem shapes the community and the behavior of community members. Over the longer term, the individual and collective behavior of community members shapes the ecosystem.</b>
 <!-- Source: https://www.youtube.com/watch?v=mScpHTIi-kM -->
