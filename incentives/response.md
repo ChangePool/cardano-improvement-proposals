@@ -83,7 +83,7 @@ Absence of higher-level motivators suggests that lower-level needs may not be me
 
 ## Rationale
 
-While the _Analysis of Cardano's Incentive Mechanism_ report concludes that determining a set of parameters to address the identified concerns is relatively straightforward, applying a sound research-based model allowing for the possibility of mass adoption, inconsistencies in the report hint that no combination of mechanisms and parameters alone may sufficiently incentivize or encourage a healthier, more responsive and responsible Cardano ecosystem.
+While the _Analysis of Cardano's Incentive Mechanism_ report concludes that determining a set of parameters to address the identified concerns is relatively straightforward, applying a sound research-based model allowing for the possibility of mass adoption, details presented in the report hint that no combination of mechanisms and parameters alone may sufficiently incentivize or encourage a healthier, more responsive and responsible Cardano ecosystem.
 
 <b>In the short to medium term, the Cardano ecosystem shapes the community and the behavior of community members. Over the longer term, the individual and collective behavior of community members shapes the ecosystem.</b>
 <!-- Source: https://www.youtube.com/watch?v=mScpHTIi-kM -->
