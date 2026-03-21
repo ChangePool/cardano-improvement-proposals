@@ -79,7 +79,7 @@ Maslow hypothesizes that lower-level needs must be satisfied before higher-level
 
 Higher levels in Maslow's hierarchy associated with thriving—which we want for Cardano—tend to be more robust, positive sum, win-win situations driven by possibility, innovation, creativity, collaboration and trade.
 
-Absence of higher-level motivators suggests that lower-level needs may not be met. The _Incentives_ report concluding that the Cardano network is secure when the ecosystem is not thriving seems inconsistent.
+Absence of higher-level motivators suggests that lower-level needs may not be met. The _Incentives_ report concluding that the Cardano network is secure when the ecosystem is not at least beginning to thrive seems inconsistent.
 
 ## Rationale
 
