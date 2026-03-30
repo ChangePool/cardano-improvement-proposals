@@ -30,7 +30,7 @@
     <code>—John von Neumann</code>
   </p>
 
-  <p>With such a monumental and historic effort of coordination and collaboration underway over such a long period of time, the suggestion in the current Draft Constitution that some Delegated Representatives (DReps) may be script-based as part of minimum viable governance, prompted extending and applying similar logic by messaging the ChatGPT artificial intelligence (AI) chatbot to <code>write a constitution for the cardano blockchain</code>, yielding the following results in no time at all.</p>
+  <p>With such a monumental and historic effort of coordination and collaboration underway over such a long period of time, the suggestion in the current Draft Constitution that some Delegated Representatives (DReps) may be script-based as part of minimum viable governance prompted extending and applying similar logic by messaging the ChatGPT artificial intelligence (AI) chatbot to <code>write a constitution for the cardano blockchain</code>, yielding the following results in no time at all.</p>
 
   <p align="center">
     <code>"If you have the choice between being right and being kind, choose being kind."</code>
