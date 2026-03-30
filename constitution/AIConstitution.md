@@ -45,7 +45,7 @@
     
   <p>Some may evaluate the chatbot processing as a reason to continue including support for bots—and perhaps even include processing that a chatbot may offer—in the Draft Constitution without concern for consequences, intended or unintended. In other words, "The end justifies the means."</p>
     
-  <p>Others may conclude that the idea of implementing script-based DReps should consequently be removed from the Constitution to encourage fostering and celebrating a deeper, more robust understanding and awareness of the governance process between people engaged in relationship in the Cardano ecosystem... or, perhaps simply to follow the implicit suggestion of the chatbot.</p>
+  <p>Others may conclude that the idea of implementing script-based DReps should consequently be removed from the Constitution to encourage fostering and celebrating a deeper, more robust understanding and awareness of the governance process between people engaged in relationship in the Cardano ecosystem... in other words, simply following the suggestions of the chatbot.</p>
     
   <p>Healthy organizational function and decentralization are not synonymous. Considering incentives and outcomes, how important to Cardano is people understanding how to protect their rights?</p>
   
