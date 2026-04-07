@@ -64,7 +64,7 @@ Sadly, the report portrays Cardano fundamentally as an ecosystem of scarcity and
   <code>—Alan Watts</code>
 </p>
 
-The social climate of scarcity and "never enough" in the Cardano ecosystem is fueled by disengagement, comparison and shame (Brown, 2012).
+The social climate of scarcity and "never enough" in the Cardano ecosystem is fueled by disengagement, comparison and shame (Brown, 2012). Toxic interpersonal interactions are defined by negativity, disrespect, and harmful behaviors that permeate the culture of an organization or community, draining people's energy, enthusiasm and self-esteem (Sandhu, 2024).
 
 Amadae (2016) recognizes that game theory will only take us so far. A world created by game theory is a world in which no one wants to live. _Figure 1_ illustrates a theory of motivation developed by Maslow (1943). In Maslow's hierarchy, the lower levels represent basic survival needs and tend to be win-lose situations, also referred to as zero sum. In a zero sum situation, one person's gain is another person's loss. In the Cardano ecosystem, the amount of ADA available is finite. ADA delegated to a stake pool is not available for delegation to other pools. Therefore, the incentives in Cardano comprised of mechanisms and numeric parameters that remain a constant focus, motivation or excuse for behavior represent a zero sum, win-lose situation supporting only the most basic human needs for survival.
 
@@ -120,7 +120,9 @@ Hardin, R., & Steinberger, H. (2013). SMART Recovery Handbook.
 Kahneman, D. (2011). Thinking, Fast and Slow. Toronto: Doubleday Canada.
 <!-- https://www.economicsobservatory.com/wellbeing-policy-what-lessons-from-the-nobel-laureate-daniel-kahneman -->
 
-Maslow, A. H. (1943). A Theory of Human Motivation. Psychological Review, 50 (4), 370-396. 
+Maslow, A. H. (1943). A Theory of Human Motivation. Psychological Review, 50 (4), 370-396.
+
+Sandhu, P. (2024). _9 Signs You’re in a Toxic Work Environment—and What to Do About It_. the muse. https://www.themuse.com/advice/toxic-work-environment.
 
 ## Copyright
 
