@@ -64,7 +64,7 @@ Sadly, the report portrays Cardano fundamentally as an ecosystem of scarcity and
   <code>—Alan Watts</code>
 </p>
 
-According to the American Psychological Association, low productivity, disengagement and high turnover within an organization, community or ecosystem indicate dysfunctional or toxic interpersonal interactions (Sandhu, 2024). The social climate of scarcity and "never enough" in the Cardano ecosystem is fueled by disengagement, comparison and shame (Brown, 2012).
+According to the American Psychological Association, low productivity, disengagement and high turnover within an organization, community or ecosystem may indicate dysfunctional or toxic interpersonal interactions (Sandhu, 2024). The social climate of scarcity and "never enough" in the Cardano ecosystem is fueled by disengagement, comparison and shame (Brown, 2012).
 
 Amadae (2016) recognizes that game theory will only take us so far. A world created by game theory is a world in which no one wants to live. _Figure 1_ illustrates a theory of motivation developed by Maslow (1943). In Maslow's hierarchy, the lower levels represent basic survival needs and tend to be win-lose situations, also referred to as zero sum. In a zero sum situation, one person's gain is another person's loss. In the Cardano ecosystem, the amount of ADA available is finite. ADA delegated to a stake pool is not available for delegation to other pools. Therefore, the incentives in Cardano comprised of mechanisms and numeric parameters that remain a constant focus, motivation or excuse for behavior represent a zero sum, win-lose situation supporting only the most basic human needs for survival.
 
