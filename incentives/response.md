@@ -27,6 +27,8 @@ License: DMCA
   <code>—<a href="https://m.youtube.com/watch?v=Wumw1iA-QUI" target="_blank">Jon Kravetz</a>, CEO, <a href="https://www.cswap.info/" target="_blank">CSWAP DEX</a></code>
 </p>
 
+<!-- Jon Kravetz is @cswap_destroy (Destroy - CEO of Cswap DEX) on Discord -->
+
 The _Analysis of Cardano's Incentive Mechanism_ report aims to assess the economic health and performance of Cardano’s stake pool incentive scheme, including the delegation model used to define network security, considering the original design goals based on game theory.
 
 Notably, the report oversimplifies human motivation. The report also provides important historical information about the long-term effects of the incentive mechanism on the health and wellbeing of the social network of stake pool operators and delegators.
