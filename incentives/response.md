@@ -83,6 +83,13 @@ Absence of higher-level motivators suggests that lower-level needs for safety an
 
 ## Rationale
 
+<p align="center">
+  <code>"When given the choice between being right or being kind, choose kind."</code>
+</p>
+<p align="center">
+  <code>—Dr. Wayne W. Dyer</code>
+</p>
+
 While the _Analysis of Cardano's Incentive Mechanism_ report concludes that determining a set of parameters to address the identified concerns is relatively straightforward, applying a sound research-based model allowing for the possibility of mass adoption, details presented in the report hint that no combination of mechanisms and parameters alone may sufficiently incentivize or encourage a healthier, more responsive and responsible Cardano ecosystem.
 
 <b>In the short to medium term, the Cardano ecosystem shapes the community and the behavior of community members. Over the longer term, the individual and collective behavior of community members shapes the ecosystem.</b>
