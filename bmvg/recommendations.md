@@ -38,7 +38,7 @@ Prepare a CIP asking the community to vote for causes to which Cardano may contr
 
 In terms of scaling Cardano for mass adoption, everyone does not need to use the same governance model. Allow for and expect the organic emergence of complementary or alternative governance models and processes from the community and the world embracing Cardano, in addition to the CIP-1694 based model implemented today, similar to how a RUST-based alternative Cardano Node software currently is under development.
 
-A key indicator of the maturity or sustainability of Cardano in the hands of community governance will be a community voting to share power—such as giving some power back to the founding entities—rather than constantly seeking to claim as much power as possible for itself.
+A key indicator of the maturity or sustainability of Cardano in the hands of community governance will be a community voting to share power—such as giving some power back to the founding entities of Cardano—rather than constantly seeking to claim as much power as possible for itself.
 
 <p align="center">
   <code>"When given the choice between being right or being kind, choose kind."</code>
