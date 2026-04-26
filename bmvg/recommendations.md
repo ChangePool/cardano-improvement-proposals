@@ -41,7 +41,7 @@ In terms of scaling Cardano for mass adoption, everyone does not need to use the
 A key indicator of the maturity or sustainability of Cardano in the hands of community governance will be a community voting to share power—such as giving some power back to the founding entities—rather than constantly seeking to claim as much power as possible for itself.
 
 <p align="center">
-  <code>"“When given the choice between being right or being kind, choose kind.”</code>
+  <code>"When given the choice between being right or being kind, choose kind."</code>
 </p>
 <p align="center">
 <code>—Dr. Wayne Dyer</code>
