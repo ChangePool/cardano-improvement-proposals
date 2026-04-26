@@ -4,7 +4,11 @@ In April 2026, the following recommendations are captured on the [Beyond MVG](ht
 
 ## _ADA Holder Metrics_: Ensure People Do What They Do Best
 
-Currently, in the Cardano ecosystem how much someone is listened to seems to be reduced to how much ADA someone holds (the more the better) and how much someone is a developer (the more technical, the better). Experts should be taken seriously in their respective fields throughout the Cardano ecosystem. Use validated digital IDs and perhaps zero-knowledge proofs (Midnight?) throughout the Cardano community so that individual skills and knowledge, including professional expertise outside Cardano, may be recognized and acknowledged. Cardano needs to hear the voices of teachers, accountants, lawyers, academics, trades, politicians, business people, psychologists and others for example offering what they do and know best in addition to the considerations of developers. People who are professionals in the real world who are ignored, belittled, disrespected or ridiculed in the Cardano ecosystem for sharing their expertise rightly will and do leave, not return, and tell everyone they know not to bother with Cardano.
+Currently, in the Cardano ecosystem how much someone is listened to seems to be reduced to how much ADA someone holds (the more the better) and how much someone is a developer (the more technical, the better).
+
+Experts should be taken seriously in their respective fields throughout the Cardano ecosystem. Use validated digital IDs and perhaps zero-knowledge proofs offered using Midnight throughout the Cardano community so that individual skills and knowledge, including professional expertise outside Cardano, may be recognized and acknowledged.
+
+Cardano needs to hear the voices of teachers, accountants, lawyers, engineers, academics, trades, politicians, business people, psychologists and others for example offering what they do and know best in addition to the considerations of developers. People who are professionals in the real world who are ignored, belittled, disrespected, ridiculed or banned in the Cardano ecosystem for sharing their expertise rightly will and do leave, not return, and tell everyone they know not to bother with Cardano.
 
 ## _DRep Metrics_: Cardano Branch Offices
 
