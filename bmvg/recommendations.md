@@ -1,6 +1,6 @@
 # Participation in Beyond Minimum Viable Governance Workshops
 
-The following recommendations are also captured on the [Beyond MVG](https://beyond-mvg.vercel.app/) Web site for submission to Input Output.
+In April 2026, the following recommendations are captured on the [Beyond MVG](https://beyond-mvg.vercel.app/) Web site for submission to Input Output.
 
 ## _ADA Holder Metrics_: Ensure People Do What They Do Best
 
