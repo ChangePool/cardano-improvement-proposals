@@ -1,6 +1,20 @@
 # Recommendations to Input Output
 
-In April 2026, the following recommendations from Paradoxical Sphere are captured on the [Beyond MVG](https://beyond-mvg.vercel.app/) Web site for submission to Input Output.
+## Preamble
+
+---
+
+Title: Recommendations to Input Output  
+Author: Paradoxical Sphere <support@paradoxicalsphere.com>  
+Cardano Stake Pool: [Change](https://coincashew.io)  
+Status: Draft  
+Type: Process  
+Created: 2026-04-25  
+License: [DMCA](https://www.dmca.com/r/69428j8)  
+
+---
+
+The following recommendations are captured on the [Beyond MVG](https://beyond-mvg.vercel.app/) Web site for submission to Input Output.
 
 ## _ADA Holder Metrics_: Ensure People Do What They Do Best
 
