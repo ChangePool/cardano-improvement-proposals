@@ -40,6 +40,11 @@ In terms of scaling Cardano for mass adoption, everyone does not need to use the
 
 A key indicator of the maturity or sustainability of Cardano in the hands of community governance will be a community voting to share power—such as giving some power back to the founding entities—rather than constantly seeking to claim as much power as possible for itself.
 
-<p style="center">“When given the choice between being right or being kind, choose kind.” —Dr. Wayne Dyer</p>
+<p align="center">
+  <code>"“When given the choice between being right or being kind, choose kind.”</code>
+</p>
+<p align="center">
+<code>—Dr. Wayne Dyer</code>
+</p>
 
 For example, [WorkplaceDAO](https://github.com/ChangePool/WorkplaceDAO) seems to address the major concerns raised in the recent Forbes article [DAOs Keep Centralizing—Decades Of Governance Research Explain Why](https://www.forbes.com/sites/digital-assets/2026/04/04/daos-keep-centralizingdecades-of-governance-research-explain-why/)
