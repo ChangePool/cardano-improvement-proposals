@@ -6,7 +6,7 @@
 
 Title: It Takes a Village  
 Author: Paradoxical Sphere <support@paradoxicalsphere.com>  
-Cardano Stake Pool: [Change](https://change.paradoxicalsphere.com)  
+Cardano Stake Pool: [Change](https://coincashew.io)  
 Status: Draft  
 Type: Process  
 Created: 2022-11-15  
