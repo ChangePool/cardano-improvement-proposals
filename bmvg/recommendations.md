@@ -62,3 +62,7 @@ A key indicator of the maturity or sustainability of Cardano in the hands of com
 </p>
 
 For example, [WorkplaceDAO](https://github.com/ChangePool/WorkplaceDAO) seems to address the major concerns raised in the recent Forbes article [DAOs Keep Centralizing—Decades Of Governance Research Explains Why](https://www.forbes.com/sites/digital-assets/2026/04/04/daos-keep-centralizingdecades-of-governance-research-explain-why/).
+
+<!-- Resources:
+https://beyond-mvg.vercel.app/
+https://linktr.ee/BeyondMVG -->
