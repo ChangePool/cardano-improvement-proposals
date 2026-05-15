@@ -113,10 +113,10 @@ According to the SEC, functional crypto systems successfully attract users who v
 Resistance to change is a long-standing and frustrating problem. The following stages are designed to reflect commitment and address readiness for change:
 
 - **Precontemplation**—There is no intention to change. Problem behavior is seen as having more pros than cons.
-- **Contemplation**—Awareness of negatives of problem behavior increases. Thinking about changing. Seeking information about the problem. Evaluating pros and cons of change. Reevaluating self and the environment.
-- **Preparation**—Ready to change in attitude and behavior. May have begun to increase self-regulation and to change. Increased commitment to change.
-- **Action**—Modifying problem behavior. Learning skills, methods and processes to prevent reversal to full return to problem behavior.
-- **Maintenance**—Sustaining changes that have been accomplished. Continuing methods of overt behavior change.
+- **Contemplation**—Awareness of negatives of problem behavior increases. Thinking about changing begins. Information is sought about the problem. Pros and cons of change are evaluated. Reevaluating self and the environment occurs.
+- **Preparation**—Readiness to change attitude and behavior is achieved. Self-regulation may increase and behavior may begin to change. An increased commitment to change emerges.
+- **Action**—Problem behavior is modified. Skills, methods and processes to prevent reversal to full return to problem behavior are learned.
+- **Maintenance**—Changes that have been accomplished are sustained. Methods of overt behavior change are continued.
 
 Moving between stages is expected to be:
 
