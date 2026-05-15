@@ -108,7 +108,15 @@ Who is sick of feeling afraid? Who in Cardano will make choices based on their v
   <code>—Securities and Exchange Commission (SEC), <a href="https://www.sec.gov/files/rules/interp/2026/33-11412.pdf" target="_blank">Application of the Federal Securities Laws to Certain Types of Crypto Assets and Certain Transactions Involving Crypto Assets</a></code>
 </p>
 
-According to the SEC, functional crypto systems successfully attract users who voluntarily cooperate and coordinate. The _Analysis of Cardano's Incentive Mechanism_ report casts doubt on the capability of Cardano users to cooperate and coordinate. Therefore, Cardano is not functional. Comparing long- and short-term benefits as well as costs (Hardin & Steinberger, 2013) while acknowledging the relatively long history of general unwillingness or inability within the Cardano ecosystem for individuals and groups to consider positive sum (non-numeric) values, the current CIP proposes submitting a Cardano governance action to enable Cardano to survive longer by reducing rewards about 50 percent as soon as possible, conserving the ADA reserves currently subsidizing the staking reward system unsustainably.
+According to the SEC, functional crypto systems successfully attract users who voluntarily cooperate and coordinate. The _Analysis of Cardano's Incentive Mechanism_ report casts doubt on the capability of Cardano users to cooperate and coordinate. Therefore, Cardano is not functional.
+
+Resistance to change is a long-standing and frustrating problem. The following stages are designed reflect commitment and address readiness for change:
+
+- **Precontemplation**—No intention to change. Problem behavior seen as having more pros than cons.
+- **Contemplation**—Thinking about changing. Seeking information about problem. Evaluating pros and cons of change. Self- and environmental reevaluation.
+- **Preparation**—Ready to change in attitude and behavior. May have begun to increase self-regulation and to change. Increased commitment.
+- **Action**—Modifying the problem behavior. Learning skills, methods and processes to prevent reversal to full return to problem behavior.
+- **Maintenance**—Sustaining changes that have been accomplished. Continue methods of overt behavior change.
 
 ## References
 
@@ -121,6 +129,8 @@ Beck, A. T., Rush, A. J., F., S. B., & Emery, G. (1979). Cognitive Therapy of De
 Bradshaw, J. (1996). Bradshaw On The Family: A New Way of Creating Solid Self-Esteem (Rev. ed.). Deerfield Beach, Fla.: Health Communications.
 
 Brown, B. (2012). Daring Greatly: How the Courage to be Vulnerable Transforms the Way We Live, Love, Parent, and Lead. New York, NY: Gotham Books.
+
+Connors, G. J., Donovan, D. M., & DiClemente, C. C. (2004). Substance Abuse Treatment and the Stages of Change: Selecting and Planning Interventions. New York: Guilford Press.
 
 Dante Alighieri. (2012). Inferno (M. J. Bang, Trans.). Graywolf Press.
 
