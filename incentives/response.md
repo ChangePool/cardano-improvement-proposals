@@ -114,7 +114,7 @@ Resistance to change is a long-standing and frustrating problem. The following s
 
 - **Precontemplation**—No intention to change. Problem behavior seen as having more pros than cons.
 - **Contemplation**—Thinking about changing. Seeking information about problem. Evaluating pros and cons of change. Self- and environmental reevaluation.
-- **Preparation**—Ready to change in attitude and behavior. May have begun to increase self-regulation and to change. Increased commitment.
+- **Preparation**—Ready to change in attitude and behavior. May have begun to increase self-regulation and to change. Increased commitment to change.
 - **Action**—Modifying the problem behavior. Learning skills, methods and processes to prevent reversal to full return to problem behavior.
 - **Maintenance**—Sustaining changes that have been accomplished. Continue methods of overt behavior change.
 
