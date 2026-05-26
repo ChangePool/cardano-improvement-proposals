@@ -110,7 +110,7 @@ Who is sick of feeling afraid? Who in Cardano will make choices based on their v
 
 According to the SEC, functional crypto systems successfully attract users who voluntarily cooperate and coordinate. The _Analysis of Cardano's Incentive Mechanism_ report casts doubt on the capability of Cardano users to cooperate and coordinate. Therefore, Cardano is not functional.
 
-Resistance to change is a long-standing and frustrating problem. The following stages are designed to reflect commitment and address readiness for change:
+Resistance to change is a long-standing and frustrating problem. The following stages are designed to reflect commitment and address readiness for change (Connors et al, 2004):
 
 - **Precontemplation**—There is no intention to change. Problem behavior is seen as having more pros than cons.
 - **Contemplation**—Awareness of negatives of problem behavior increases. Thinking about changing begins. Information is sought about the problem. Pros and cons of change are evaluated. Reevaluating self and the environment occurs.
