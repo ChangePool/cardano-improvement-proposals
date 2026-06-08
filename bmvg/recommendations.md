@@ -67,5 +67,5 @@ For example, [WorkplaceDAO](https://github.com/ChangePool/WorkplaceDAO) seems to
 https://beyond-mvg.vercel.app/
 https://linktr.ee/BeyondMVG -->
 
-<!-- June 7, 2026 - Reflecting Dunbar's Number (https://en.wikipedia.org/wiki/Dunbar%27s_number), cap the total number of delegators to a stake pool or DRep at about 150. For stake pools and DReps currently having more than 150 delegators, keep the 150 delegators having the most ADA, and then drop remaining delegators. -->
+<!-- June 7, 2026 - Reflecting Dunbar's Number (https://en.wikipedia.org/wiki/Dunbar%27s_number), cap the total number of delegators to a stake pool or DRep at about 150. For stake pools and DReps currently having more than 150 delegators, keep the 150 delegators having the most ADA, and then drop the remaining delegators. -->
 
