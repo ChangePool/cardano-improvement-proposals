@@ -5,9 +5,9 @@ Category: Consensus
 Status: Draft
 Authors:
     - CoinCashew.io <doc@coincashew.io>
-Implementors: []
+<!-- Implementors: []
 Discussions:
-    - Original PR: 
+    - Original PR: https://github.com/cardano-foundation/CIPs/pull/? -->
 Created: 2026-06-10
 License: CC-BY-4.0
 ---
