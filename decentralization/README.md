@@ -2,7 +2,7 @@
 CIP: CIP-y
 Title: Creating a Parameter to Limit the Maximum Number of Delegators to Stake Pools and DReps
 Category: Consensus
-Status: Proposed
+Status: Draft
 Authors:
     - CoinCashew.io <doc@coincashew.io>
 Implementors: []
