@@ -1,4 +1,4 @@
-# Creating a Parameter to Limit the Maximum Number of Delegators to an Individual Stake Pool or DRep
+# Creating a Parameter to Limit the Maximum Number of Delegators to Stake Pools and DReps
 
 Here’s another idea to address centralization in the network… maybe it’s useful directly or indirectly… maybe it’s a new idea, maybe it’s not… Reflecting Dunbar’s Number (https://en.wikipedia.org/wiki/Dunbar%27s_number) cap the total number delegators to a stake pool or DRep at about 150. Introduce MaxDelegators as a protocol parameter. Create a mechanism allowing stake pools and DReps to drop selected delegators. To implement the solution in the current network, keep the top 150 delegators by ADA for each stake pool and DRep, and then drop additional delegators.
 
