@@ -1,6 +1,6 @@
 ---
 CIP: CIP-y
-Title: Parameterizing the Maximum Number of Delegators For Stake Pools and DReps
+Title: Creating a Parameter to Limit the Maximum Number of Delegators to Stake Pools and DReps
 Category: Consensus
 Status: Proposed
 Authors:
