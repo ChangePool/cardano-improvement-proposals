@@ -5,4 +5,5 @@ In chronological order, the following ideas are proposed for Cardano Improvement
 - **CIP-_x_? (November 15, 2022)**—[It Takes a Village](./CIP-x/README.md)
 - **AI Constitution (September 22, 2024)**—[Constitution of the Cardano Blockchain (by ChatGPT)](./constitution/AIConstitution.md)
 - **Incentives (February 23, 2026)**—[Cardano: Doomed to Survive—Not Thrive?](./incentives/response.md)
-- **Beyond Minimum Viable Governance Workshops (April 2025)**—[Recommendations to Input Output](./bmvg/recommendations.md)
+- **Beyond Minimum Viable Governance Workshops (April 2026)**—[Recommendations to Input Output](./bmvg/recommendations.md)
+- **Maintaining Decentralization (June 2026)**—[Limiting the Number of Delegators to Individual Stake Pools and DReps](./decentralization/README.md)
