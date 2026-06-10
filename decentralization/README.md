@@ -1,4 +1,63 @@
-# Creating a Parameter to Limit the Maximum Number of Delegators to Stake Pools and DReps
+---
+CIP: CIP-y
+Title: Parameterizing the Maximum Number of Delegators For Stake Pools and DReps
+Category: Consensus
+Status: Proposed
+Authors:
+    - CoinCashew.io <doc@coincashew.io>
+Implementors: []
+Discussions:
+    - Original PR: 
+Created: 2026-06-10
+License: CC-BY-4.0
+---
+
+## Abstract
+<!-- A short (\~200 word) description of the proposed solution and the technical issue being addressed. -->
+
+## Motivation: Why is this CIP necessary?
+<!-- A clear explanation that introduces the reason for a proposal, its use cases and stakeholders. If the CIP changes an established design then it must outline design issues that motivate a rework. For complex proposals, authors must write a Cardano Problem Statement (CPS) as defined in CIP-9999 and link to it as the `Motivation`. -->
+
+## Specification
+<!-- The technical specification should describe the proposed improvement in sufficient technical detail. In particular, it should provide enough information that an implementation can be performed solely on the basis of the design in the CIP. This is necessary to facilitate multiple, interoperable implementations. This must include how the CIP should be versioned, if not covered under an optional Versioning main heading. If a proposal defines structure of on-chain data it must include a CDDL schema in its specification.-->
+
+## Rationale: How does this CIP achieve its goals?
+<!-- The rationale fleshes out the specification by describing what motivated the design and what led to particular design decisions. It should describe alternate designs considered and related work. The rationale should provide evidence of consensus within the community and discuss significant objections or concerns raised during the discussion.
+
+It must also explain how the proposal affects the backward compatibility of existing solutions when applicable. If the proposal responds to a CPS, the 'Rationale' section should explain how it addresses the CPS, and answer any questions that the CPS poses for potential solutions.
+-->
+
+## Path to Active
+
+### Acceptance Criteria
+<!-- Describes what are the acceptance criteria whereby a proposal becomes 'Active' -->
+
+<!-- For core categories (Ledger, Plutus, Network, Consensus) the following SHOULD be included:
+- [ ] Implementation present within block producing nodes used by 80%+ of stake
+-->
+
+### Implementation Plan
+<!-- A plan to meet those criteria or `N/A` if an implementation plan is not applicable. -->
+
+<!--
+OPTIONAL SECTIONS (see CIP-0001 > Document > Structure table for details):
+These may appear here, between 'Path to Active' and 'Copyright', in any order
+and at author/editor discretion. To use one, add it as an H2 below.
+
+## Versioning            — if versioning is not addressed in Specification
+## References            — external documents, prior art, related CIPs/CPSs
+## Appendices            — supplementary material
+## Acknowledgements      — contributors and discussion participants
+## Open Questions        — unresolved design questions left for future discussion
+-->
+
+## Copyright
+<!-- The CIP must be explicitly licensed under acceptable copyright terms. Uncomment the license you wish to use (delete the other one) and ensure it matches the License field in the header.
+-->
+
+This CIP is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
+
+-----
 
 Here’s another idea to address centralization in the network… maybe it’s useful directly or indirectly… maybe it’s a new idea, maybe it’s not… Reflecting Dunbar’s Number (https://en.wikipedia.org/wiki/Dunbar%27s_number) cap the total number delegators to a stake pool or DRep at about 150. Introduce MaxDelegators as a protocol parameter. Create a mechanism allowing stake pools and DReps to drop selected delegators. To implement the solution in the current network, keep the top 150 delegators by ADA for each stake pool and DRep, and then drop additional delegators.
 
