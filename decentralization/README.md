@@ -5,12 +5,13 @@ Category: Consensus
 Status: Draft
 Authors:
     - CoinCashew.io <doc@coincashew.io>
-<!-- Implementors: []
-Discussions:
-    - Original PR: https://github.com/cardano-foundation/CIPs/pull/? -->
 Created: 2026-06-10
 License: CC-BY-4.0
 ---
+<!-- Template based on: https://github.com/cardano-foundation/CIPs/blob/master/.github/CIP-TEMPLATE.md -->
+<!-- Implementors: []
+Discussions:
+    - Original PR: https://github.com/cardano-foundation/CIPs/pull/? -->
 
 ## Abstract
 <!-- A short (\~200 word) description of the proposed solution and the technical issue being addressed. -->
