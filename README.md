@@ -6,4 +6,4 @@ In chronological order, the following ideas are proposed for Cardano Improvement
 - **AI Constitution (September 22, 2024)**—[Constitution of the Cardano Blockchain (by ChatGPT)](./constitution/AIConstitution.md)
 - **Incentives (February 23, 2026)**—[Cardano: Doomed to Survive—Not Thrive?](./incentives/response.md)
 - **Beyond Minimum Viable Governance Workshops (April 2026)**—[Recommendations to Input Output](./bmvg/recommendations.md)
-- **Maintaining Decentralization (June 2026)**—[Creating a Parameter to Limit the Maximum Number of Delegators to Each Stake Pool and DRep](./decentralization/README.md)
+- **Maintaining Decentralization (June 2026)**—[Fostering Trust by Creating a Parameter to Limit the Maximum Number of Delegators to Each Stake Pool and DRep](./decentralization/README.md)
