@@ -1,6 +1,6 @@
 ---
 CIP: CIP-y
-Title: Creating a Parameter to Limit the Maximum Number of Delegators to Each Stake Pool and DRep
+Title: Fostering Trust by Creating a Parameter to Limit the Maximum Number of Delegators to Each Stake Pool and DRep
 Category: Consensus
 Status: Draft
 Authors:
